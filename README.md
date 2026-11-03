@@ -17,10 +17,12 @@ Choose **Ethos Home** to install, open and update the apps you want, or download
   <a href="https://github.com/ssharaf-dot/ethos-releases/releases/latest/download/Ethos-Home-Windows.msi"><img src="https://raw.githubusercontent.com/ssharaf-dot/ethos-releases/main/assets/brand/download-windows.svg" alt="Download Ethos Home for Windows — 64-bit" width="240"></a>
 </p>
 
-| WRITE | CALCULATE | PRESENT | REVIEW |
-|---|---|---|---|
-| **[Docs](https://www.ethostechnologies.si/docs.html)** | **[Sheets](https://www.ethostechnologies.si/sheets.html)** | **[Slides](https://www.ethostechnologies.si/slides.html)** | **[PDF Professional](https://www.ethostechnologies.si/pdf.html)** |
-| Documents and drafts | Tables, formulas and charts | Ideas and presentations | Read, edit, sign and protect PDFs |
+| EXPLORE THE APPS | MAKE IT YOUR OWN |
+|---|---|
+| **[Docs](https://www.ethostechnologies.si/docs.html)** | Documents and drafts |
+| **[Sheets](https://www.ethostechnologies.si/sheets.html)** | Tables, formulas and charts |
+| **[Slides](https://www.ethostechnologies.si/slides.html)** | Ideas and presentations |
+| **[PDF Professional](https://www.ethostechnologies.si/pdf.html)** | Read, edit, sign and protect PDFs |
 
 <a href="https://github.com/ssharaf-dot/ethos-releases"><img src="https://raw.githubusercontent.com/ssharaf-dot/ethos-releases/main/assets/images/independent-tools.jpg" alt="Two people developing a document together at a sunlit studio table" width="1100"></a>
 
